@@ -1,1 +1,1 @@
-# Woredpress Theme - Xhalhy Website
+# Wordpress Theme - Xhalhy Website
